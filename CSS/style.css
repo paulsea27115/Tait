@@ -366,5 +366,7 @@ section > ul.top-list > li > ul > li{
     align-items: center;
     padding-left: 20px;
     /* border: 1px solid black; */
-    
+}
+.list{
+    display: none;
 }
