@@ -379,6 +379,7 @@ section > ul.top-list > li > ul > li{
     padding: 5px;
     color: #7a878b;
     font-size: 20px;
+    margin-top: 10px;
 }
 .list > div{
     display: flex;
@@ -387,6 +388,7 @@ section > ul.top-list > li > ul > li{
     height: 100%;
     background: white;
     float: right;
+    border-bottom-left-radius: 5px;
 }
 .on{
     display: block;
